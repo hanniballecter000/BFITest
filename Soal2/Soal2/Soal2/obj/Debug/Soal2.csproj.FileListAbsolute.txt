@@ -1,0 +1,9 @@
+D:\Project\Script\C#Training1\Soal2\Soal2\Soal2\bin\Debug\Soal2.exe.config
+D:\Project\Script\C#Training1\Soal2\Soal2\Soal2\bin\Debug\Soal2.exe
+D:\Project\Script\C#Training1\Soal2\Soal2\Soal2\bin\Debug\Soal2.pdb
+D:\Project\Script\C#Training1\Soal2\Soal2\Soal2\obj\Debug\Soal2.csprojResolveAssemblyReference.cache
+D:\Project\Script\C#Training1\Soal2\Soal2\Soal2\obj\Debug\Soal2.Properties.Resources.resources
+D:\Project\Script\C#Training1\Soal2\Soal2\Soal2\obj\Debug\Soal2.csproj.GenerateResource.Cache
+D:\Project\Script\C#Training1\Soal2\Soal2\Soal2\obj\Debug\Soal2.exe
+D:\Project\Script\C#Training1\Soal2\Soal2\Soal2\obj\Debug\Soal2.pdb
+D:\Project\Script\C#Training1\Soal2\Soal2\Soal2\obj\Debug\Soal2.frmMain.resources
